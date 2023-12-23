@@ -7,9 +7,6 @@
  
   <br/>
   
-### my Profile
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### my Portfolio
 [![Mylog's GitHub portfolio](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://leehoje.github.io)
@@ -20,6 +17,7 @@
   
  <br/>
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white"> <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=ApacheKafka&logoColor=White">
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
