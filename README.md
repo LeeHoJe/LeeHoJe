@@ -9,7 +9,7 @@
   
 
 ### my Portfolio
-[![Mylog's GitHub portfolio](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://leehoje.github.io)
+[[My GitHub portfolio](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://leehoje.github.io)
 
 
 
