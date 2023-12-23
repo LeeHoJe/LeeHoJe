@@ -7,15 +7,16 @@
  
   <br/>
   
-### my Portfolio
+### my Profile
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-  
+
+### my Portfolio
 [![Mylog's GitHub portfolio](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://leehoje.github.io)
 
 
 
-### 📋Once I've Used 
+### 📋my stack
   
  <br/>
   
