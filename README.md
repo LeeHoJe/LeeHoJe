@@ -9,7 +9,7 @@
   
 
 ### my Portfolio
-[[My GitHub portfolio](https://leehoje.github.io)
+[My GitHub portfolio](https://leehoje.github.io)
 
 
 
