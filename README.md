@@ -2,19 +2,17 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I%60m+dogcatquokka;Developers+Train)](https://git.io/typing-svg)
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
-<br /><br /><br />
-
-### Hi there 👋
 ### 👋 Welcome to my GitHub profile! 
 
  
   <br/>
   
+### my Portfolio
+  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
   
-[![Mylog's GitHub portfolio](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)]([https://dogcatquokka.github.io](https://leehoje.github.io/))
+[![Mylog's GitHub portfolio](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://leehoje.github.io)
+
 
 
 ### 📋Once I've Used 
